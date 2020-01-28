@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pohraiciej.meulenart.de/sitemap.xml
